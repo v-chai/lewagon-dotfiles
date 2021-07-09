@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = vcoprentice@gmail.com
+	name = V Prentice
